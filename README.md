@@ -20,7 +20,7 @@ Website ELEGANCE menyediakan berbagai fitur untuk kemudahan belanja online pakai
 
 ## Cara Menjalankan Website
 1. Clone repository ini atau unduh semua file yang diperlukan.
-2. Buka folder project, lalu buka file `index.html` dengan browser untuk menjalankan website secara lokal.
+2. Buka file `index.html` dengan browser untuk menjalankan website secara lokal.
 3. Pastikan semua file yang terkait seperti gambar dan file pendukung lainnya ada di dalam folder yang benar, misalnya `aset` untuk gambar produk.
 
 ## Sumber Gambar/Aset yang Digunakan
